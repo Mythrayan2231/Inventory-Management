@@ -59,7 +59,7 @@ The **Inventory Management Dashboard** is a full-stack web application designed 
 
 ### Clone the Repository 🧬  
 ```bash
-git clone https://github.com/MothilalShiva/inventory-management.git
+git clone https://github.com/Mythrayan2231/Inventory Management.git
 cd inventory-management
 ```
 
@@ -115,4 +115,4 @@ inventory-management/
 
 
 ## Contributors 🤝  
-Made with ❤️ by [Mothilal Shiva](https://github.com/MothilalShiva)
+Made with ❤️ by Mythrayan N P
